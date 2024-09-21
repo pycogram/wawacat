@@ -31,7 +31,7 @@ export function Page({objIconPro, objImgPro, objGifPro}) {
                     <a href="https://pump.fun/8Sk2EJ9oo25b7Mmf4qd5gJw6z3738AXvAbkuSSpQpump" target="_blank"><img src={ray} alt="pumpfun buy link"></img></a>
                 </span>
                 <span>
-                    <a href="https://www.dextools.io/app/en/tron/pair-explorer/8Sk2EJ9oo25b7Mmf4qd5gJw6z3738AXvAbkuSSpQpump" target="_blank"><img src={dext} alt="dextools link"></img></a>
+                    <a href="https://www.dextools.io/app/en/solana/pair-explorer/74cdMSwA1GXoCdNGnZKnt884Uxr4DgUyRp5eC7hL5aaP" target="_blank"><img src={dext} alt="dextools link"></img></a>
                 </span>
                 <span>
                     <a href="https://dexscreener.com/solana/8Sk2EJ9oo25b7Mmf4qd5gJw6z3738AXvAbkuSSpQpump" target="_blank"><img src={dexs} alt="dexscreener link"></img></a>
