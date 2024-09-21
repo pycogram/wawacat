@@ -15,13 +15,13 @@ const objImg = {
   logo3: require('./pic/cb9.jpg')
 }
 const objGif = {
-  gif1: require('./pic/cb0.jpeg'),
-  gif2: require('./pic/cb0.jpeg'),
-  gif3: require('./pic/cb0.jpeg'),
-  gif4: require('./pic/cb0.jpeg'),
-  gif5: require('./pic/cb0.jpeg'),
-  gif6: require('./pic/cb0.jpeg'),
-  gif7: require('./pic/cb0.jpeg')
+  gif1: require('./pic/cb1.jpg'),
+  gif2: require('./pic/cb2.jpg'),
+  gif3: require('./pic/cb3.jpg'),
+  gif4: require('./pic/cb4.jpg'),
+  gif5: require('./pic/cb5.jpg'),
+  gif6: require('./pic/cb6.jpg'),
+  gif7: require('./pic/cb7.jpg')
 }
 
 const testImg = require('./icon/dexs.png');
