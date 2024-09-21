@@ -196,7 +196,7 @@ body{
   color: var(--text1-color-dark-grey);
 }
 .aboutSection{
-  margin: 3rem 0 1rem 0;
+  margin: 0.5rem 0 1rem 0;
   padding: 1.8rem 1rem;
   border-radius: 30px;
 }
