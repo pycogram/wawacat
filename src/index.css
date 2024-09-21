@@ -271,6 +271,10 @@ footer p{
   }
 }
 @media screen and (max-width: 630px){
+  body{
+    background-image: url(./pic//background.jpg);
+    background-size: 500px 500px;
+  }
   h1, h2{
     font-size: 25px;
   }
