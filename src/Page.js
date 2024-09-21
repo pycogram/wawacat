@@ -55,9 +55,6 @@ export function Page({objIconPro, objImgPro, objGifPro}) {
                 </div>
                 <div className="aboutSection">
                     <div className="about">
-                        {/* <span>
-                            <img src={logo2} alt="about pic"></img>
-                        </span> */}
                         <h4>
                             Why did the sneaky Wawa cat jump into $wawa? 
                             Saw the market bounce and said, "Purrfect timing!" 
@@ -66,9 +63,6 @@ export function Page({objIconPro, objImgPro, objGifPro}) {
                             Diversified into $wawa, $wawa, and $wawa. 
                             Now it lounges in the crypto sun, smug and unbothered!
                         </h4>
-                        {/* <span>
-                            <img src={logo3} alt="about pic 2"></img>
-                        </span> */}
                     </div>
                     <div className="buyButton">
                         <button>
