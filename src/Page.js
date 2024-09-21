@@ -28,7 +28,7 @@ export function Page({objIconPro, objImgPro, objGifPro}) {
                     <a href="https://x.com/wawa_cto" target="_blank"><img src={x} alt="twitter link"></img></a>
                 </span>
                 <span>
-                    <a href="" target="_blank"><img src={ray} alt="raydium buy link"></img></a>
+                    <a href="https://pump.fun/8Sk2EJ9oo25b7Mmf4qd5gJw6z3738AXvAbkuSSpQpump" target="_blank"><img src={ray} alt="pumpfun buy link"></img></a>
                 </span>
                 <span>
                     <a href="https://www.dextools.io/app/en/tron/pair-explorer/8Sk2EJ9oo25b7Mmf4qd5gJw6z3738AXvAbkuSSpQpump" target="_blank"><img src={dext} alt="dextools link"></img></a>
@@ -72,7 +72,7 @@ export function Page({objIconPro, objImgPro, objGifPro}) {
                     </div>
                     <div className="buyButton">
                         <button>
-                            <a href="https://dexscreener.com/solana/8Sk2EJ9oo25b7Mmf4qd5gJw6z3738AXvAbkuSSpQpump" target="_blank">Buy $WAWA</a> 
+                            <a href="https://pump.fun/8Sk2EJ9oo25b7Mmf4qd5gJw6z3738AXvAbkuSSpQpump" target="_blank">Buy $WAWA</a> 
                         </button>
                     </div>
                 </div>

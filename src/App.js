@@ -5,7 +5,7 @@ import { Page } from './Page';
 const objIcon = {
   tg: require('./icon/tg.png'),
   x: require('./icon/twitter.png'),
-  ray: require('./icon/ray.png'),
+  ray: require('./icon/pumpfun.png'),
   dext: require('./icon/dext.png'),
   dexs: require('./icon/dexs.png')
 }
