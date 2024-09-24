@@ -12,7 +12,6 @@ const objIcon = {
 const objImg = {
   logo1: require('./pic/cb0.jpeg'),
   logo2: require('./pic/cb3.jpg'),
-  logo3: require('./pic/cb9.jpg')
 }
 const objGif = {
   gif1: require('./pic/cb1.jpg'),
